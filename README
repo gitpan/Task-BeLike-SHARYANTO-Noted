@@ -1,0 +1,34 @@
+NAME
+    Task::BeLike::SHARYANTO::Noted - Some modules which I take note of
+    because I can never remember their names
+
+VERSION
+    version 0.01
+
+DESCRIPTION
+    This distribution is a random list of modules which I need to take a
+    note of because I can never seem to remember their names, usually
+    because the name is not representative of what the module does, or the
+    term is unusual, or both. Or it's just my failing memory.
+
+    They are categorized by functionalities/topics.
+
+TASK CONTENTS
+  Modules to prevent multiple instances of script running simultaneously
+    Similar in functionality to Proc::PID::File.
+
+   Script::RunAlone
+FAQ
+  Why don't you just favorite the module in MetaCPAN?
+    I reserve that for modules which I like/use and would like to be
+    installed on my Perl installations.
+
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2012 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
