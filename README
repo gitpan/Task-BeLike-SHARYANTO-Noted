@@ -3,7 +3,7 @@ NAME
     because I can never remember their names
 
 VERSION
-    version 0.02
+    version 0.03
 
 DESCRIPTION
     This distribution is a random list of modules which I need to take a
@@ -11,15 +11,23 @@ DESCRIPTION
     because the name is not representative of what the module does, or the
     term is unusual, or both. Or it's just my failing memory.
 
-    They are categorized by functionalities/topics.
+    They are categorized by task.
 
 TASK CONTENTS
-  Modules to prevent multiple instances of script running simultaneously
-    Similar in functionality to Proc::PID::File.
+  Prevent multiple instances of script from running simultaneously
+    Similar to Proc::PID::File.
 
    Sys::RunAlone
+  Automatically download, install, load CPAN modules upon first use
+    Similar to Module::AutoLoad, Module::AutoINC.
+
+   lib::xi
+  Automatically load classes/modules upon first use
+    Similar to Class::Autouse.
+
+   L
 FAQ
-  Why don't you just favorite the module in MetaCPAN?
+  Why don't you just favorite the modules in MetaCPAN?
     I reserve that for modules which I like/use and would like to be
     installed on my Perl installations.
 

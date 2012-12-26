@@ -31,7 +31,9 @@
       },
       "runtime" : {
          "requires" : {
-            "Sys::RunAlone" : 0
+            "L" : 0,
+            "Sys::RunAlone" : 0,
+            "lib::xi" : 0
          }
       }
    },
@@ -42,6 +44,6 @@
          "url" : "http://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Noted"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
 
