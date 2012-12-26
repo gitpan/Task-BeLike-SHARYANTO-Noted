@@ -17,13 +17,13 @@ my %module_build_args = (
     "Steven Haryanto <stevenharyanto\@gmail.com>"
   ],
   "dist_name" => "Task-BeLike-SHARYANTO-Noted",
-  "dist_version" => "0.01",
+  "dist_version" => "0.02",
   "license" => "perl",
   "module_name" => "Task::BeLike::SHARYANTO::Noted",
   "recommends" => {},
   "recursive_test_files" => 1,
   "requires" => {
-    "Script::RunAlone" => 0
+    "Sys::RunAlone" => 0
   },
   "script_files" => []
 );

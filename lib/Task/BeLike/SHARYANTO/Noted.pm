@@ -1,6 +1,6 @@
 package Task::BeLike::SHARYANTO::Noted;
 
-our $VERSION = '0.01'; # VERSION
+our $VERSION = '0.02'; # VERSION
 
 1;
 # ABSTRACT: Some modules which I take note of because I can never remember their names
@@ -15,7 +15,7 @@ Task::BeLike::SHARYANTO::Noted - Some modules which I take note of because I can
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
@@ -32,7 +32,7 @@ They are categorized by functionalities/topics.
 
 Similar in functionality to L<Proc::PID::File>.
 
-=head3 L<Script::RunAlone>
+=head3 L<Sys::RunAlone>
 
 =head1 FAQ
 

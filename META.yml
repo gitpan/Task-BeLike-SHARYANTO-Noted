@@ -14,8 +14,8 @@ meta-spec:
   version: 1.4
 name: Task-BeLike-SHARYANTO-Noted
 requires:
-  Script::RunAlone: 0
+  Sys::RunAlone: 0
 resources:
   homepage: http://metacpan.org/dist/Task-BeLike-SHARYANTO-Noted
   repository: http://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Noted
-version: 0.01
+version: 0.02

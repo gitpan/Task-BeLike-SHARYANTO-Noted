@@ -3,7 +3,7 @@ NAME
     because I can never remember their names
 
 VERSION
-    version 0.01
+    version 0.02
 
 DESCRIPTION
     This distribution is a random list of modules which I need to take a
@@ -17,7 +17,7 @@ TASK CONTENTS
   Modules to prevent multiple instances of script running simultaneously
     Similar in functionality to Proc::PID::File.
 
-   Script::RunAlone
+   Sys::RunAlone
 FAQ
   Why don't you just favorite the module in MetaCPAN?
     I reserve that for modules which I like/use and would like to be
